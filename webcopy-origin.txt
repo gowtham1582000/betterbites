@@ -1,0 +1,2612 @@
+Uri: https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\npm\bootstrap-icons@1.7.2\font\bootstrap-icons.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/fonts/bootstrap-icons.woff2?30af91bf14e37666a085fb8a161ff36d
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\npm\bootstrap-icons@1.7.2\font\fonts\bootstrap-icons.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/fonts/bootstrap-icons.woff?30af91bf14e37666a085fb8a161ff36d
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\npm\bootstrap-icons@1.7.2\font\fonts\bootstrap-icons.woff
+Content Type: font/woff
+
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Noto+Kufi+Arabic:wght@100;200;300;400;500;600;700;800;900&display=swap
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\css2-3
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700;800;900&display=swap
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Zilla+Slab:wght@300;400;500;600;700&display=swap
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\css2-2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuBWYMZg.ttf
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuBWYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyfMZg.ttf
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYMZg.ttf
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYMZg.ttf
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYMZg.ttf
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fMZg.ttf
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyeMZg.ttf
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyeMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfMZg.ttf
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuOKfMZg.ttf
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/notokufiarabic/v15/CSRp4ydQnPyaDxEXLFF6LZVLKrodhu8t57o1kDc5Wh4x34bP.ttf
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\s\notokufiarabic\v15\CSRp4ydQnPyaDxEXLFF6LZVLKrodhu8t57o1kDc5Wh4x34bP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/notokufiarabic/v15/CSRp4ydQnPyaDxEXLFF6LZVLKrodhu8t57o1kDc5Wh5d34bP.ttf
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\s\notokufiarabic\v15\CSRp4ydQnPyaDxEXLFF6LZVLKrodhu8t57o1kDc5Wh5d34bP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/notokufiarabic/v15/CSRp4ydQnPyaDxEXLFF6LZVLKrodhu8t57o1kDc5Wh5v34bP.ttf
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\s\notokufiarabic\v15\CSRp4ydQnPyaDxEXLFF6LZVLKrodhu8t57o1kDc5Wh5v34bP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/notokufiarabic/v15/CSRp4ydQnPyaDxEXLFF6LZVLKrodhu8t57o1kDc5Wh5v3obP.ttf
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\s\notokufiarabic\v15\CSRp4ydQnPyaDxEXLFF6LZVLKrodhu8t57o1kDc5Wh5v3obP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/notokufiarabic/v15/CSRp4ydQnPyaDxEXLFF6LZVLKrodhu8t57o1kDc5Wh6I2IbP.ttf
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\s\notokufiarabic\v15\CSRp4ydQnPyaDxEXLFF6LZVLKrodhu8t57o1kDc5Wh6I2IbP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/notokufiarabic/v15/CSRp4ydQnPyaDxEXLFF6LZVLKrodhu8t57o1kDc5Wh6x2IbP.ttf
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\s\notokufiarabic\v15\CSRp4ydQnPyaDxEXLFF6LZVLKrodhu8t57o1kDc5Wh6x2IbP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/notokufiarabic/v15/CSRp4ydQnPyaDxEXLFF6LZVLKrodhu8t57o1kDc5Wh7G2IbP.ttf
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\s\notokufiarabic\v15\CSRp4ydQnPyaDxEXLFF6LZVLKrodhu8t57o1kDc5Wh7G2IbP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/notokufiarabic/v15/CSRp4ydQnPyaDxEXLFF6LZVLKrodhu8t57o1kDc5Wh7v2IbP.ttf
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\s\notokufiarabic\v15\CSRp4ydQnPyaDxEXLFF6LZVLKrodhu8t57o1kDc5Wh7v2IbP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/notokufiarabic/v15/CSRp4ydQnPyaDxEXLFF6LZVLKrodhu8t57o1kDc5Wh7v34bP.ttf
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\s\notokufiarabic\v15\CSRp4ydQnPyaDxEXLFF6LZVLKrodhu8t57o1kDc5Wh7v34bP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v6/QGYyz_MVcBeNP4NjuGObqx1XmO1I4bC1C4E.ttf
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\s\outfit\v6\QGYyz_MVcBeNP4NjuGObqx1XmO1I4bC1C4E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v6/QGYyz_MVcBeNP4NjuGObqx1XmO1I4bCyC4E.ttf
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\s\outfit\v6\QGYyz_MVcBeNP4NjuGObqx1XmO1I4bCyC4E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v6/QGYyz_MVcBeNP4NjuGObqx1XmO1I4deyC4E.ttf
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\s\outfit\v6\QGYyz_MVcBeNP4NjuGObqx1XmO1I4deyC4E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v6/QGYyz_MVcBeNP4NjuGObqx1XmO1I4e6yC4E.ttf
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\s\outfit\v6\QGYyz_MVcBeNP4NjuGObqx1XmO1I4e6yC4E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v6/QGYyz_MVcBeNP4NjuGObqx1XmO1I4QK1C4E.ttf
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\s\outfit\v6\QGYyz_MVcBeNP4NjuGObqx1XmO1I4QK1C4E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v6/QGYyz_MVcBeNP4NjuGObqx1XmO1I4TC0C4E.ttf
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\s\outfit\v6\QGYyz_MVcBeNP4NjuGObqx1XmO1I4TC0C4E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v6/QGYyz_MVcBeNP4NjuGObqx1XmO1I4TC1C4E.ttf
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\s\outfit\v6\QGYyz_MVcBeNP4NjuGObqx1XmO1I4TC1C4E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v6/QGYyz_MVcBeNP4NjuGObqx1XmO1I4W61C4E.ttf
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\s\outfit\v6\QGYyz_MVcBeNP4NjuGObqx1XmO1I4W61C4E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v6/QGYyz_MVcBeNP4NjuGObqx1XmO1I4ZmyC4E.ttf
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\s\outfit\v6\QGYyz_MVcBeNP4NjuGObqx1XmO1I4ZmyC4E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/zillaslab/v11/dFa5ZfeM_74wlPZtksIFYoEf2HQ.ttf
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\s\zillaslab\v11\dFa5ZfeM_74wlPZtksIFYoEf2HQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/zillaslab/v11/dFa5ZfeM_74wlPZtksIFYpEY2HQ.ttf
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\s\zillaslab\v11\dFa5ZfeM_74wlPZtksIFYpEY2HQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/zillaslab/v11/dFa5ZfeM_74wlPZtksIFYskZ2HQ.ttf
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\s\zillaslab\v11\dFa5ZfeM_74wlPZtksIFYskZ2HQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/zillaslab/v11/dFa5ZfeM_74wlPZtksIFYuUe2HQ.ttf
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\s\zillaslab\v11\dFa5ZfeM_74wlPZtksIFYuUe2HQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/zillaslab/v11/dFa6ZfeM_74wlPZtksIFWj0.ttf
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\s\zillaslab\v11\dFa6ZfeM_74wlPZtksIFWj0.ttf
+Content Type: font/ttf
+
+Uri: https://newzin-html.themescamp.com/
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\index.htm
+Content Type: text/html
+
+Uri: https://newzin-html.themescamp.com/assets/css/lib/all.min.css
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\css\lib\all.min.css
+Content Type: text/css
+
+Uri: https://newzin-html.themescamp.com/assets/css/lib/animate.css
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\css\lib\animate.css
+Content Type: text/css
+
+Uri: https://newzin-html.themescamp.com/assets/css/lib/bootstrap.min.css
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\css\lib\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://newzin-html.themescamp.com/assets/css/lib/bootstrap.rtl.min.css
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\css\lib\bootstrap.rtl.min.css
+Content Type: text/css
+
+Uri: https://newzin-html.themescamp.com/assets/css/lib/icofont.min.css
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\css\lib\icofont.min.css
+Content Type: text/css
+
+Uri: https://newzin-html.themescamp.com/assets/css/lib/ionicons.css
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\css\lib\ionicons.css
+Content Type: text/css
+
+Uri: https://newzin-html.themescamp.com/assets/css/lib/jquery.fancybox.css
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\css\lib\jquery.fancybox.css
+Content Type: text/css
+
+Uri: https://newzin-html.themescamp.com/assets/css/lib/line-awesome.css
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\css\lib\line-awesome.css
+Content Type: text/css
+
+Uri: https://newzin-html.themescamp.com/assets/css/lib/lity.css
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\css\lib\lity.css
+Content Type: text/css
+
+Uri: https://newzin-html.themescamp.com/assets/css/lib/swiper.min.css
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\css\lib\swiper.min.css
+Content Type: text/css
+
+Uri: https://newzin-html.themescamp.com/assets/css/rtl_style.css
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\css\rtl_style.css
+Content Type: text/css
+
+Uri: https://newzin-html.themescamp.com/assets/css/style.css
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\css\style.css
+Content Type: text/css
+
+Uri: https://newzin-html.themescamp.com/assets/fonts/icofont.woff
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\fonts\icofont.woff
+Content Type: application/font-woff
+
+Uri: https://newzin-html.themescamp.com/assets/fonts/icofont.woff2
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\fonts\icofont.woff2
+Content Type: application/font-woff2
+
+Uri: https://newzin-html.themescamp.com/assets/fonts/ionicons.woff?v=2.0.0
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\fonts\ionicons.woff
+Content Type: application/font-woff
+
+Uri: https://newzin-html.themescamp.com/assets/fonts/line_awesome_1.3.0/la-brands-400.eot
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\fonts\line_awesome_1.3.0\la-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://newzin-html.themescamp.com/assets/fonts/line_awesome_1.3.0/la-brands-400.eot?
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\fonts\line_awesome_1.3.0\la-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://newzin-html.themescamp.com/assets/fonts/line_awesome_1.3.0/la-brands-400.svg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\fonts\line_awesome_1.3.0\la-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://newzin-html.themescamp.com/assets/fonts/line_awesome_1.3.0/la-brands-400.ttf
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\fonts\line_awesome_1.3.0\la-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://newzin-html.themescamp.com/assets/fonts/line_awesome_1.3.0/la-brands-400.woff
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\fonts\line_awesome_1.3.0\la-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://newzin-html.themescamp.com/assets/fonts/line_awesome_1.3.0/la-brands-400.woff2
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\fonts\line_awesome_1.3.0\la-brands-400.woff2
+Content Type: application/font-woff2
+
+Uri: https://newzin-html.themescamp.com/assets/fonts/line_awesome_1.3.0/la-regular-400.eot
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\fonts\line_awesome_1.3.0\la-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://newzin-html.themescamp.com/assets/fonts/line_awesome_1.3.0/la-regular-400.eot?
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\fonts\line_awesome_1.3.0\la-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://newzin-html.themescamp.com/assets/fonts/line_awesome_1.3.0/la-regular-400.svg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\fonts\line_awesome_1.3.0\la-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://newzin-html.themescamp.com/assets/fonts/line_awesome_1.3.0/la-regular-400.ttf
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\fonts\line_awesome_1.3.0\la-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://newzin-html.themescamp.com/assets/fonts/line_awesome_1.3.0/la-regular-400.woff
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\fonts\line_awesome_1.3.0\la-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://newzin-html.themescamp.com/assets/fonts/line_awesome_1.3.0/la-regular-400.woff2
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\fonts\line_awesome_1.3.0\la-regular-400.woff2
+Content Type: application/font-woff2
+
+Uri: https://newzin-html.themescamp.com/assets/fonts/line_awesome_1.3.0/la-solid-900.eot
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\fonts\line_awesome_1.3.0\la-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://newzin-html.themescamp.com/assets/fonts/line_awesome_1.3.0/la-solid-900.eot?
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\fonts\line_awesome_1.3.0\la-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://newzin-html.themescamp.com/assets/fonts/line_awesome_1.3.0/la-solid-900.svg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\fonts\line_awesome_1.3.0\la-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://newzin-html.themescamp.com/assets/fonts/line_awesome_1.3.0/la-solid-900.ttf
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\fonts\line_awesome_1.3.0\la-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://newzin-html.themescamp.com/assets/fonts/line_awesome_1.3.0/la-solid-900.woff
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\fonts\line_awesome_1.3.0\la-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://newzin-html.themescamp.com/assets/fonts/line_awesome_1.3.0/la-solid-900.woff2
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\fonts\line_awesome_1.3.0\la-solid-900.woff2
+Content Type: application/font-woff2
+
+Uri: https://newzin-html.themescamp.com/assets/fonts/neco/Neco-Variable.ttf
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\fonts\neco\Neco-Variable.ttf
+Content Type: application/octet-stream
+
+Uri: https://newzin-html.themescamp.com/assets/fonts/neco/Neco-VariableItalic.ttf
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\fonts\neco\Neco-VariableItalic.ttf
+Content Type: application/octet-stream
+
+Uri: https://newzin-html.themescamp.com/assets/img/about_page/about.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\about_page\about.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/assets/img/about_page/header_back.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\about_page\header_back.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/about_page/pattern_1.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\about_page\pattern_1.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/about_page/team/1.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\about_page\team\1.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/assets/img/about_page/team/2.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\about_page\team\2.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/assets/img/about_page/team/3.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\about_page\team\3.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/assets/img/about_page/team/4.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\about_page\team\4.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/assets/img/about_page/team/5.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\about_page\team\5.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/assets/img/about_page/team/6.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\about_page\team\6.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/assets/img/android1.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\android1.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/another_news/1.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\another_news\1.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/another_news/2.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\another_news\2.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/another_news/3.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\another_news\3.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/another_news/4.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\another_news\4.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/another_news/5.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\another_news\5.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/another_news/6.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\another_news\6.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/another_news/7.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\another_news\7.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/another_news/8.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\another_news\8.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/another_news/9.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\another_news\9.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/apple1.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\apple1.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/ar.svg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\ar.svg
+Content Type: image/svg+xml
+
+Uri: https://newzin-html.themescamp.com/assets/img/audio1.mp3
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\audio1.mp3
+Content Type: audio/mpeg
+
+Uri: https://newzin-html.themescamp.com/assets/img/back2.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\back2.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/banner1.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\banner1.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/banner10.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\banner10.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/banner11.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\banner11.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/banner12.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\banner12.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/banner13.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\banner13.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/banner14.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\banner14.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/banner15.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\banner15.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/banner16.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\banner16.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/banner17.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\banner17.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/banner18.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\banner18.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/banner19.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\banner19.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/banner2.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\banner2.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/banner20.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\banner20.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/banner21.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\banner21.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/banner22.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\banner22.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/banner23.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\banner23.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/banner24.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\banner24.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/banner25.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\banner25.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/banner3.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\banner3.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/banner4.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\banner4.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/banner5.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\banner5.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/banner6.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\banner6.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/banner7.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\banner7.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/banner8.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\banner8.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/banner9.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\banner9.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/bg_pattern1.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\bg_pattern1.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/bg_shap.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\bg_shap.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/breaking/1.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\breaking\1.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/breaking/2.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\breaking\2.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/breaking/3.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\breaking\3.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/breaking/4.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\breaking\4.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/breaking/5.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\breaking\5.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/breaking/6.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\breaking\6.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/breaking/7.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\breaking\7.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/breaking/8.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\breaking\8.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/bussines/1.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\bussines\1.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/bussines/2.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\bussines\2.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/bussines/3.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\bussines\3.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/car_brands/bmw.svg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\car_brands\bmw.svg
+Content Type: image/svg+xml
+
+Uri: https://newzin-html.themescamp.com/assets/img/car_brands/fiat.svg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\car_brands\fiat.svg
+Content Type: image/svg+xml
+
+Uri: https://newzin-html.themescamp.com/assets/img/car_brands/ford.svg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\car_brands\ford.svg
+Content Type: image/svg+xml
+
+Uri: https://newzin-html.themescamp.com/assets/img/car_brands/gmc.svg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\car_brands\gmc.svg
+Content Type: image/svg+xml
+
+Uri: https://newzin-html.themescamp.com/assets/img/car_brands/jeep.svg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\car_brands\jeep.svg
+Content Type: image/svg+xml
+
+Uri: https://newzin-html.themescamp.com/assets/img/car_brands/mercedes.svg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\car_brands\mercedes.svg
+Content Type: image/svg+xml
+
+Uri: https://newzin-html.themescamp.com/assets/img/colums.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\colums.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/colums/1.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\colums\1.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/colums/2.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\colums\2.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/colums/3.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\colums\3.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/colums/4.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\colums\4.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/download1.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\download1.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/download1_dark.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\download1_dark.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/edit_choice/1.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\edit_choice\1.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/edit_choice/2.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\edit_choice\2.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/edit_choice/3.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\edit_choice\3.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/edit_choice/4.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\edit_choice\4.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/edit_choice/5.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\edit_choice\5.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/edit_choice/6.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\edit_choice\6.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/edit_choice/7.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\edit_choice\7.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/en.svg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\en.svg
+Content Type: image/svg+xml
+
+Uri: https://newzin-html.themescamp.com/assets/img/fav.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\fav.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/fr.svg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\fr.svg
+Content Type: image/svg+xml
+
+Uri: https://newzin-html.themescamp.com/assets/img/google-stories/1.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\google-stories\1.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/google-stories/10.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\google-stories\10.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/google-stories/11.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\google-stories\11.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/google-stories/12.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\google-stories\12.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/google-stories/13.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\google-stories\13.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/google-stories/14.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\google-stories\14.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/google-stories/15.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\google-stories\15.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/google-stories/16.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\google-stories\16.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/google-stories/17.jpeg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\google-stories\17.jpeg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/assets/img/google-stories/18.jpeg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\google-stories\18.jpeg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/assets/img/google-stories/19.jpeg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\google-stories\19.jpeg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/assets/img/google-stories/2.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\google-stories\2.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/google-stories/20.jpeg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\google-stories\20.jpeg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/assets/img/google-stories/21.jpeg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\google-stories\21.jpeg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/assets/img/google-stories/22.jpeg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\google-stories\22.jpeg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/assets/img/google-stories/3.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\google-stories\3.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/google-stories/4.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\google-stories\4.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/google-stories/5.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\google-stories\5.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/google-stories/6.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\google-stories\6.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/google-stories/7.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\google-stories\7.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/google-stories/8.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\google-stories\8.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/google-stories/9.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\google-stories\9.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/header/1.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\header\1.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/header/2.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\header\2.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/header/3.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\header\3.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/header/home3_1.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\header\home3_1.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/header/home3_2.jpeg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\header\home3_2.jpeg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/assets/img/header/home3_3.jpeg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\header\home3_3.jpeg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/assets/img/header/home3_4.jpeg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\header\home3_4.jpeg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/assets/img/header/home3_5.jpeg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\header\home3_5.jpeg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/assets/img/icons/1.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\icons\1.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/icons/2.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\icons\2.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/icons/3.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\icons\3.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/icons/4.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\icons\4.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/icons/5.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\icons\5.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/icons/6.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\icons\6.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/imoj_heart.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\imoj_heart.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/instagram/1.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\instagram\1.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/instagram/10.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\instagram\10.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/instagram/11.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\instagram\11.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/instagram/12.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\instagram\12.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/instagram/2.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\instagram\2.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/instagram/3.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\instagram\3.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/instagram/4.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\instagram\4.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/instagram/5.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\instagram\5.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/instagram/6.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\instagram\6.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/instagram/7.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\instagram\7.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/instagram/8.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\instagram\8.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/instagram/9.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\instagram\9.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/1.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\1.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/10.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\10.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/100.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\100.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/101.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\101.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/102.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\102.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/103.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\103.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/104.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\104.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/105.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\105.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/106.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\106.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/107.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\107.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/108.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\108.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/109.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\109.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/11.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\11.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/110.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\110.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/111.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\111.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/112.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\112.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/113.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\113.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/114.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\114.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/115.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\115.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/116.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\116.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/117.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\117.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/118.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\118.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/119.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\119.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/12.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\12.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/120.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\120.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/121.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\121.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/122.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\122.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/123.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\123.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/124.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\124.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/125.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\125.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/126.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\126.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/127.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\127.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/128.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\128.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/129.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\129.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/13.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\13.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/130.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\130.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/131.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\131.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/132.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\132.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/133.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\133.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/134.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\134.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/135.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\135.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/136.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\136.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/137.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\137.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/138.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\138.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/139.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\139.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/14.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\14.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/140.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\140.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/141.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\141.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/142.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\142.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/143.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\143.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/144.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\144.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/145.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\145.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/146.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\146.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/147.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\147.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/148.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\148.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/149.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\149.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/15.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\15.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/150.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\150.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/151.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\151.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/152.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\152.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/153.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\153.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/154.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\154.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/155.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\155.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/156.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\156.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/158.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\158.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/16.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\16.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/162.webp
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\162.webp
+Content Type: image/webp
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/163.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\163.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/164.webp
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\164.webp
+Content Type: image/webp
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/165.webp
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\165.webp
+Content Type: image/webp
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/166.webp
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\166.webp
+Content Type: image/webp
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/167.webp
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\167.webp
+Content Type: image/webp
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/168.webp
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\168.webp
+Content Type: image/webp
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/169.webp
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\169.webp
+Content Type: image/webp
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/17.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\17.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/170.jpeg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\170.jpeg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/171.webp
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\171.webp
+Content Type: image/webp
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/172.webp
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\172.webp
+Content Type: image/webp
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/174.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\174.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/175.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\175.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/176.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\176.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/177.webp
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\177.webp
+Content Type: image/webp
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/178.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\178.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/179.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\179.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/18.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\18.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/180.jpeg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\180.jpeg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/181.jpeg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\181.jpeg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/182.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\182.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/183.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\183.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/184.jpeg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\184.jpeg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/185.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\185.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/186.jpeg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\186.jpeg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/187.jpeg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\187.jpeg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/188.jpeg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\188.jpeg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/189.jpeg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\189.jpeg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/19.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\19.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/190.jpeg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\190.jpeg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/191.jpeg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\191.jpeg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/2.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\2.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/20.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\20.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/21.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\21.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/22.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\22.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/23.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\23.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/24.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\24.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/25.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\25.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/26.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\26.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/27.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\27.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/28.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\28.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/29.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\29.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/3.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\3.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/30.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\30.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/31.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\31.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/32.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\32.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/33.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\33.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/34.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\34.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/35.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\35.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/36.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\36.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/37.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\37.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/38.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\38.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/39.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\39.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/4.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\4.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/40.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\40.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/41.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\41.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/42.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\42.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/43.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\43.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/44.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\44.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/45.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\45.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/46.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\46.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/47.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\47.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/48.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\48.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/49.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\49.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/5.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\5.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/50.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\50.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/51.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\51.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/52.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\52.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/53.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\53.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/54.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\54.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/55.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\55.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/56.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\56.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/57.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\57.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/58.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\58.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/59.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\59.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/6.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\6.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/60.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\60.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/61.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\61.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/62.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\62.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/63.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\63.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/64.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\64.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/65.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\65.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/66.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\66.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/67.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\67.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/68.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\68.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/69.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\69.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/7.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\7.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/70.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\70.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/71.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\71.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/72.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\72.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/73.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\73.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/74.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\74.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/75.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\75.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/76.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\76.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/77.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\77.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/78.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\78.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/79.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\79.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/8.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\8.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/80.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\80.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/81.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\81.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/82.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\82.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/83.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\83.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/84.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\84.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/85.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\85.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/86.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\86.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/87.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\87.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/88.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\88.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/89.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\89.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/9.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\9.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/90.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\90.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/91.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\91.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/92.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\92.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/93.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\93.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/94.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\94.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/95.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\95.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/96.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\96.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/97.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\97.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/98.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\98.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/latest/99.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\latest\99.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/lifestyle/1.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\lifestyle\1.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/lifestyle/2.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\lifestyle\2.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/lifestyle/3.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\lifestyle\3.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/lifestyle/4.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\lifestyle\4.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/lifestyle/5.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\lifestyle\5.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/lifestyle/6.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\lifestyle\6.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/lifestyle/7.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\lifestyle\7.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/lifestyle/8.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\lifestyle\8.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/lifestyle/9.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\lifestyle\9.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/logo4_animated.svg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\logo4_animated.svg
+Content Type: image/svg+xml
+
+Uri: https://newzin-html.themescamp.com/assets/img/logo_home1.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\logo_home1.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/logo_home10_dr.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\logo_home10_dr.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/logo_home10_lt.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\logo_home10_lt.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/logo_home1_lt.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\logo_home1_lt.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/logo_home2.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\logo_home2.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/logo_home2_icon.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\logo_home2_icon.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/logo_home2_lt.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\logo_home2_lt.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/logo_home3.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\logo_home3.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/logo_home4.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\logo_home4.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/logo_home4_lt.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\logo_home4_lt.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/logo_home5.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\logo_home5.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/logo_home5_lt.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\logo_home5_lt.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/logo_home6.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\logo_home6.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/logo_home6_lt.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\logo_home6_lt.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/logo_home7.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\logo_home7.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/logo_home7_lt.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\logo_home7_lt.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/logo_home8.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\logo_home8.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/logo_home8_dr.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\logo_home8_dr.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/logo_home9.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\logo_home9.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/logo_home9_dr.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\logo_home9_dr.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/main_post.jpeg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\main_post.jpeg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/assets/img/must_read/1.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\must_read\1.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/must_read/2.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\must_read\2.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/must_read/3.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\must_read\3.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/must_read/4.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\must_read\4.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/page_author/1.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\page_author\1.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/assets/img/page_author/2.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\page_author\2.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/assets/img/page_author/3.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\page_author\3.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/assets/img/page_author/4.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\page_author\4.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/assets/img/page_author/5.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\page_author\5.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/assets/img/page_author/6.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\page_author\6.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/assets/img/page_author/7.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\page_author\7.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/assets/img/page_author/8.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\page_author\8.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/assets/img/pdc1.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\pdc1.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/pdc2.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\pdc2.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/pdc3.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\pdc3.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/quote.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\quote.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/shop/1.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\shop\1.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/assets/img/shop/2.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\shop\2.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/assets/img/shop/3.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\shop\3.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/assets/img/shop/4.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\shop\4.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/assets/img/shop/5.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\shop\5.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/assets/img/shop/6.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\shop\6.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/assets/img/shop/7.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\shop\7.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/assets/img/shop/8.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\shop\8.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/assets/img/shop/9.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\shop\9.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/assets/img/shop/o2.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\shop\o2.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/assets/img/shop/o3.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\shop\o3.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/assets/img/soon/1.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\soon\1.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/soon/2.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\soon\2.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/soon/3.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\soon\3.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/soon/4.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\soon\4.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/soon/5.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\soon\5.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/sponsored/1.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\sponsored\1.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/sponsored/2.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\sponsored\2.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/sponsored/3.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\sponsored\3.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/sponsored/4.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\sponsored\4.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/sponsored/5.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\sponsored\5.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/sponsored/6.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\sponsored\6.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/sponsored/7.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\sponsored\7.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/tabs/1.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\tabs\1.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/tabs/10.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\tabs\10.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/tabs/11.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\tabs\11.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/tabs/12.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\tabs\12.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/tabs/13.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\tabs\13.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/tabs/14.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\tabs\14.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/tabs/15.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\tabs\15.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/tabs/16.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\tabs\16.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/tabs/17.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\tabs\17.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/tabs/18.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\tabs\18.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/tabs/19.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\tabs\19.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/tabs/2.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\tabs\2.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/tabs/20.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\tabs\20.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/tabs/21.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\tabs\21.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/tabs/22.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\tabs\22.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/tabs/23.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\tabs\23.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/tabs/24.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\tabs\24.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/tabs/25.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\tabs\25.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/tabs/3.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\tabs\3.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/tabs/4.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\tabs\4.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/tabs/5.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\tabs\5.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/tabs/6.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\tabs\6.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/tabs/7.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\tabs\7.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/tabs/8.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\tabs\8.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/tabs/9.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\tabs\9.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/teams/1.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\teams\1.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/teams/2.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\teams\2.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/teams/3.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\teams\3.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/teams/4.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\teams\4.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/teams/5.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\teams\5.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/teams/bal.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\teams\bal.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/teams/bos.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\teams\bos.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/teams/cws.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\teams\cws.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/teams/nyw.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\teams\nyw.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/teams/obr.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\teams\obr.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/teams/opl.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\teams\opl.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/teams/tord.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\teams\tord.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/team_page/1.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\team_page\1.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/assets/img/team_page/2.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\team_page\2.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/assets/img/team_page/3.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\team_page\3.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/assets/img/team_page/4.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\team_page\4.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/assets/img/team_page/5.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\team_page\5.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/assets/img/team_page/6.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\team_page\6.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/assets/img/team_page/7.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\team_page\7.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/assets/img/team_page/8.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\team_page\8.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/assets/img/technology/1.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\technology\1.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/technology/2.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\technology\2.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/technology/3.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\technology\3.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/topics/1.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\topics\1.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/topics/2.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\topics\2.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/topics/3.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\topics\3.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/topics/4.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\topics\4.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/topics/5.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\topics\5.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/topics/6.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\topics\6.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/top_fav/1.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\top_fav\1.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/top_fav/2.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\top_fav\2.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/top_fav/3.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\top_fav\3.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/top_fav/4.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\top_fav\4.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/top_fav/5.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\top_fav\5.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/top_fav/6.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\top_fav\6.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/trend/1.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\trend\1.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/trend/10.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\trend\10.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/trend/11.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\trend\11.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/trend/12.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\trend\12.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/trend/13.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\trend\13.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/trend/14.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\trend\14.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/trend/15.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\trend\15.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/trend/16.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\trend\16.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/trend/17.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\trend\17.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/trend/2.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\trend\2.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/trend/3.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\trend\3.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/trend/4.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\trend\4.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/trend/5.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\trend\5.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/trend/6.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\trend\6.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/trend/7.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\trend\7.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/trend/8.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\trend\8.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/trend/9.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\trend\9.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/video.mp4
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\video.mp4
+Content Type: video/mp4
+
+Uri: https://newzin-html.themescamp.com/assets/img/videos/1.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\videos\1.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/videos/10.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\videos\10.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/videos/11.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\videos\11.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/videos/12.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\videos\12.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/videos/13.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\videos\13.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/videos/2.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\videos\2.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/videos/3.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\videos\3.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/videos/4.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\videos\4.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/videos/5.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\videos\5.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/videos/6.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\videos\6.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/videos/7.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\videos\7.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/videos/8.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\videos\8.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/videos/9.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\videos\9.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/videos/back1.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\videos\back1.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/videos/back2.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\videos\back2.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/wid_popular/1.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\wid_popular\1.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/wid_popular/2.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\wid_popular\2.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/wid_popular/3.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\wid_popular\3.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/wid_popular/4.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\wid_popular\4.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/wid_popular/5.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\wid_popular\5.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/wid_popular/6.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\wid_popular\6.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/wid_popular/7.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\wid_popular\7.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/img/wid_popular/8.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\img\wid_popular\8.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/assets/js/lib/back-to-top.js
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\js\lib\back-to-top.js
+Content Type: application/javascript
+
+Uri: https://newzin-html.themescamp.com/assets/js/lib/bootstrap.bundle.min.js
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\js\lib\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://newzin-html.themescamp.com/assets/js/lib/jquery-3.0.0.min.js
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\js\lib\jquery-3.0.0.min.js
+Content Type: application/javascript
+
+Uri: https://newzin-html.themescamp.com/assets/js/lib/jquery-migrate-3.0.0.min.js
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\js\lib\jquery-migrate-3.0.0.min.js
+Content Type: application/javascript
+
+Uri: https://newzin-html.themescamp.com/assets/js/lib/jquery.counterup.js
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\js\lib\jquery.counterup.js
+Content Type: application/javascript
+
+Uri: https://newzin-html.themescamp.com/assets/js/lib/jquery.fancybox.js
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\js\lib\jquery.fancybox.js
+Content Type: application/javascript
+
+Uri: https://newzin-html.themescamp.com/assets/js/lib/jquery.waypoints.min.js
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\js\lib\jquery.waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://newzin-html.themescamp.com/assets/js/lib/lity.js
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\js\lib\lity.js
+Content Type: application/javascript
+
+Uri: https://newzin-html.themescamp.com/assets/js/lib/mixitup.min.js
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\js\lib\mixitup.min.js
+Content Type: application/javascript
+
+Uri: https://newzin-html.themescamp.com/assets/js/lib/pace.js
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\js\lib\pace.js
+Content Type: application/javascript
+
+Uri: https://newzin-html.themescamp.com/assets/js/lib/parallaxie.js
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\js\lib\parallaxie.js
+Content Type: application/javascript
+
+Uri: https://newzin-html.themescamp.com/assets/js/lib/scrollIt.min.js
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\js\lib\scrollIt.min.js
+Content Type: application/javascript
+
+Uri: https://newzin-html.themescamp.com/assets/js/lib/swiper.min.js
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\js\lib\swiper.min.js
+Content Type: application/javascript
+
+Uri: https://newzin-html.themescamp.com/assets/js/lib/wow.min.js
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\js\lib\wow.min.js
+Content Type: application/javascript
+
+Uri: https://newzin-html.themescamp.com/assets/js/main.js
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://newzin-html.themescamp.com/home-10.html
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\home-10.html
+Content Type: text/html
+
+Uri: https://newzin-html.themescamp.com/home-bussiness.html
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\home-bussiness.html
+Content Type: text/html
+
+Uri: https://newzin-html.themescamp.com/home-cars.html
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\home-cars.html
+Content Type: text/html
+
+Uri: https://newzin-html.themescamp.com/home-default.html
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\home-default.html
+Content Type: text/html
+
+Uri: https://newzin-html.themescamp.com/home-food.html
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\home-food.html
+Content Type: text/html
+
+Uri: https://newzin-html.themescamp.com/home-gaming.html
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\home-gaming.html
+Content Type: text/html
+
+Uri: https://newzin-html.themescamp.com/home-nft.html
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\home-nft.html
+Content Type: text/html
+
+Uri: https://newzin-html.themescamp.com/home-politic.html
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\home-politic.html
+Content Type: text/html
+
+Uri: https://newzin-html.themescamp.com/home-sport.html
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\home-sport.html
+Content Type: text/html
+
+Uri: https://newzin-html.themescamp.com/home-technology.html
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\home-technology.html
+Content Type: text/html
+
+Uri: https://newzin-html.themescamp.com/landing-preview/css/preview-style.css
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\landing-preview\css\preview-style.css
+Content Type: text/css
+
+Uri: https://newzin-html.themescamp.com/landing-preview/img/b2.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\landing-preview\img\b2.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/landing-preview/img/demos/1.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\landing-preview\img\demos\1.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/landing-preview/img/demos/10.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\landing-preview\img\demos\10.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/landing-preview/img/demos/11.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\landing-preview\img\demos\11.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/landing-preview/img/demos/2.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\landing-preview\img\demos\2.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/landing-preview/img/demos/22.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\landing-preview\img\demos\22.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/landing-preview/img/demos/33.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\landing-preview\img\demos\33.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/landing-preview/img/demos/44.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\landing-preview\img\demos\44.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/landing-preview/img/demos/55.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\landing-preview\img\demos\55.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/landing-preview/img/demos/66.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\landing-preview\img\demos\66.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/landing-preview/img/demos/77.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\landing-preview\img\demos\77.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/landing-preview/img/demos/88.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\landing-preview\img\demos\88.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/landing-preview/img/demos/99.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\landing-preview\img\demos\99.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/landing-preview/img/envato.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\landing-preview\img\envato.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/landing-preview/img/header/1.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\landing-preview\img\header\1.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/landing-preview/img/header/10.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\landing-preview\img\header\10.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/landing-preview/img/header/11.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\landing-preview\img\header\11.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/landing-preview/img/header/12.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\landing-preview\img\header\12.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/landing-preview/img/header/13.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\landing-preview\img\header\13.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/landing-preview/img/header/14.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\landing-preview\img\header\14.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/landing-preview/img/header/15.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\landing-preview\img\header\15.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/landing-preview/img/header/16.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\landing-preview\img\header\16.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/landing-preview/img/header/18.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\landing-preview\img\header\18.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/landing-preview/img/header/19.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\landing-preview\img\header\19.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/landing-preview/img/header/2.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\landing-preview\img\header\2.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/landing-preview/img/header/20.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\landing-preview\img\header\20.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/landing-preview/img/header/21.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\landing-preview\img\header\21.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/landing-preview/img/header/22.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\landing-preview\img\header\22.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/landing-preview/img/header/23.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\landing-preview\img\header\23.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/landing-preview/img/header/24.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\landing-preview\img\header\24.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/landing-preview/img/header/25.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\landing-preview\img\header\25.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/landing-preview/img/header/26.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\landing-preview\img\header\26.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/landing-preview/img/header/27.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\landing-preview\img\header\27.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/landing-preview/img/header/28.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\landing-preview\img\header\28.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/landing-preview/img/header/29.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\landing-preview\img\header\29.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/landing-preview/img/header/3.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\landing-preview\img\header\3.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/landing-preview/img/header/4.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\landing-preview\img\header\4.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/landing-preview/img/header/5.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\landing-preview\img\header\5.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/landing-preview/img/header/6.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\landing-preview\img\header\6.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/landing-preview/img/header/7.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\landing-preview\img\header\7.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/landing-preview/img/header/8.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\landing-preview\img\header\8.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/landing-preview/img/header/9.jpg
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\landing-preview\img\header\9.jpg
+Content Type: image/jpeg
+
+Uri: https://newzin-html.themescamp.com/landing-preview/img/logo_home1.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\landing-preview\img\logo_home1.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/landing-preview/img/pattern.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\landing-preview\img\pattern.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/landing-preview/img/quotes.png
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\landing-preview\img\quotes.png
+Content Type: image/png
+
+Uri: https://newzin-html.themescamp.com/landing-preview/js/countdown.js
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\landing-preview\js\countdown.js
+Content Type: application/javascript
+
+Uri: https://newzin-html.themescamp.com/landing-preview/js/demo.js
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\landing-preview\js\demo.js
+Content Type: application/javascript
+
+Uri: https://newzin-html.themescamp.com/landing-preview/js/parallax.min.js
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\landing-preview\js\parallax.min.js
+Content Type: application/javascript
+
+Uri: https://newzin-html.themescamp.com/page-404.html
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\page-404.html
+Content Type: text/html
+
+Uri: https://newzin-html.themescamp.com/page-about.html
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\page-about.html
+Content Type: text/html
+
+Uri: https://newzin-html.themescamp.com/page-author-details.html
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\page-author-details.html
+Content Type: text/html
+
+Uri: https://newzin-html.themescamp.com/page-author.html
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\page-author.html
+Content Type: text/html
+
+Uri: https://newzin-html.themescamp.com/page-blog.html
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\page-blog.html
+Content Type: text/html
+
+Uri: https://newzin-html.themescamp.com/page-contact.html
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\page-contact.html
+Content Type: text/html
+
+Uri: https://newzin-html.themescamp.com/page-product.html
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\page-product.html
+Content Type: text/html
+
+Uri: https://newzin-html.themescamp.com/page-shop.html
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\page-shop.html
+Content Type: text/html
+
+Uri: https://newzin-html.themescamp.com/page-single-post-creative.html
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\page-single-post-creative.html
+Content Type: text/html
+
+Uri: https://newzin-html.themescamp.com/page-single-post-features.html
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\page-single-post-features.html
+Content Type: text/html
+
+Uri: https://newzin-html.themescamp.com/page-team.html
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\page-team.html
+Content Type: text/html
+
+Uri: https://newzin-html.themescamp.com/rtl-home-sport.html
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\rtl-home-sport.html
+Content Type: text/html
+
+Uri: https://newzin-html.themescamp.com/rtl-page-single-post-creative.html
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\rtl-page-single-post-creative.html
+Content Type: text/html
+
+Uri: https://newzin-html.themescamp.com/rtl-page-single-post-features.html
+File Name: H:\Downloads\Website Templates\News\newzin-html.themescamp.com\rtl-page-single-post-features.html
+Content Type: text/html
+
