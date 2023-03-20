@@ -45,13 +45,17 @@
                                             <i class="la la-calendar"></i>
                                         </div>
                                         <div class="inf" id="p1">
-                                            <strong>Today's Date</strong>
-                                            <p ></p>
+                                            <strong>Monday</strong>
                                            
                                         </div>
                                     </div>
                                 </div>
-                                
+                                <div class="col-6">
+                                    <div class="inf">
+                                        <h5 class="temp">51 °C</h5>
+                                        <p>Chennai</p>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -106,25 +110,19 @@
         <!-- ====== start navbar ====== -->
         <nav class="navbar navbar-expand-lg navbar-light style-1">
             <div class="container p-0">
-                <div class="mob-nav-toggles d-flex align-items-center justify-content-between">
-                        <span></span>
-                        <span></span>
-                    <a href="#" class="logo-brand d-block d-lg-none w-50 my-4">
-                        <img src="assets/img/logo-1.png" alt="" class="dark-none">
-                        <img src="assets/img/logo-1.png" alt="" class="light-none">
-                    </a>
-                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                        <span class="navbar-toggler-icon"></span>
-                    </button>
-                </div>
+               
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                         <li class="nav-item">
                             <a class="nav-link" href="index.html">
-                                Home
+                                Menu
                             </a>
                         </li>
-                       
+                        <li class="nav-item">
+                            <a class="nav-link" href="page-about.html">
+                                About Us
+                            </a>
+                        </li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown1" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                 City
@@ -174,11 +172,6 @@
                                 Life Style
                             </a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="page-about.html">
-                                About Us
-                            </a>
-                        </li>
                      
                     </ul>
                    
@@ -214,16 +207,18 @@
 </div>
 <script>
     
-    
-    var currentDate = new Date();
-    var dateTime = currentDate.getMonth() + "/" + currentDate.getDate() + "/" + currentDate.getFullYear();
-            
-    
+    var currentdate= new Date();
+    var month = currentdate.getMonth();
+    var day = currentdate.getDate();
+    var year = currentdate.getFullYear();
+    var full_date= (month+1) + day + "," + year;
     const para = document.createElement("p");
-    const node = document.createTextNode(dateTime);
-  
+    const node = document.createTextNode("0"+(month+1));
+    const node1 = document.createTextNode(day);
+    const node2 = document.createTextNode(year);
     para.appendChild(node);
-    
+    para.appendChild(node1);
+    para.appendChild(node2);
     const element = document.getElementById("p1");
     element.appendChild(para);
     
