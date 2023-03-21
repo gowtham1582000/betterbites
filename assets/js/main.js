@@ -75,7 +75,7 @@ $( function() {
 
     // -------- counter --------
         $('.counter').countUp({
-            delay: 10,
+            delay: 5,
             time: 2000
         });
 
