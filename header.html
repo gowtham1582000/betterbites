@@ -211,7 +211,7 @@
 
 <script>
     var currentDate = new Date();
-    var dateTime = currentDate.getMonth() + "/" + currentDate.getDate() + "/" + currentDate.getFullYear();
+    var dateTime = currentDate.getDate() + "/" + "0"+ (currentDate.getMonth()+1) + "/" + currentDate.getFullYear();
             
     
     const para = document.createElement("p");
